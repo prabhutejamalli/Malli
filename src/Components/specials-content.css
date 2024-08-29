@@ -1,0 +1,96 @@
+.istockphoto-1338280922-170667a-icon {
+    position: absolute;
+    top: 99px;
+    left: 0;
+    width: 624.9px;
+    height: 725.9px;
+    object-fit: contain;
+    z-index: 1;
+  }
+  .frame-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .strawberry-on-white-background-icon {
+    position: absolute;
+    top: 413px;
+    left: 43px;
+    width: 94px;
+    height: 72px;
+    object-fit: cover;
+    z-index: 4;
+  }
+  .strawberry-on-white-background-icon1,
+  .strawberry-on-white-background-icon2 {
+    position: absolute;
+    top: 366px;
+    left: 27px;
+    width: 94px;
+    height: 72px;
+    object-fit: cover;
+    z-index: 5;
+  }
+  .strawberry-on-white-background-icon2 {
+    top: 316px;
+    left: 23px;
+    z-index: 6;
+  }
+  .ellipse-parent {
+    position: absolute;
+    top: 375px;
+    left: 197px;
+    width: 550px;
+    height: 550px;
+  }
+  .sushi-chopsticks-27304150-remo-icon {
+    position: absolute;
+    top: 927px;
+    left: 66px;
+    width: 115px;
+    height: 198px;
+    object-fit: contain;
+  }
+  .frame-inner,
+  .group-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  }
+  .group-icon {
+    top: 797px;
+    left: 75.7px;
+    width: 413.7px;
+    height: 432.7px;
+    object-fit: contain;
+    z-index: 4;
+  }
+  .vector-icon {
+    position: absolute;
+    top: 211px;
+    left: 577.7px;
+    width: 34px;
+    height: 34px;
+    z-index: 3;
+  }
+  .istockphoto-1338280922-170667a-parent,
+  .vector-parent {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 354.3px;
+    width: 1197.2px;
+  }
+  .istockphoto-1338280922-170667a-parent {
+    left: 60px;
+    width: 1215px;
+  }
+  
